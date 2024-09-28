@@ -54,6 +54,10 @@
   <li><a href="Registro/Transito/Estatistica.java">Classe Estatistica</a></li>
 </ul>
 
+## Jogo da velha
+
+<p> Este exercicio não estava na lista mas foi um ótimo meio para treino. <a href="JogoDaVelha/JogoDaVelha.java"></a></p>
+
 ## Autor
 <div align="center">
 <a href="https://www.linkedin.com/in/felype-dantas-dos-santos-94497b193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
