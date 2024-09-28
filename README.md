@@ -56,7 +56,7 @@
 
 ## Jogo da velha
 
-<p> Este exercicio não estava na lista mas foi um ótimo meio para treino. <a href="JogoDaVelha/JogoDaVelha.java"></a></p>
+<p> Este exercicio não estava na lista mas foi um ótimo meio para treino. <a href="JogoDaVelha/JogoDaVelha.java">Clique para ver o código</a></p>
 
 ## Autor
 <div align="center">
